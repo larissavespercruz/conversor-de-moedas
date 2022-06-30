@@ -4,7 +4,7 @@
 
 Execute `ng serve` para subir um servidor local. Navegue até `http://localhost:4200/`.
 
-## Build
+## Compilando o projeto
 
 Execute `ng build` para compilar o projeto. Use `--prod` para compilar em produção.
 
