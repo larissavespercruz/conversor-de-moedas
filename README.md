@@ -1,7 +1,5 @@
 # Conversor De Moedas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
-
 ## Servidor de desenvolvimento
 
 Execute `ng serve` para subir um servidor local. Navegue até `http://localhost:4200/`.
